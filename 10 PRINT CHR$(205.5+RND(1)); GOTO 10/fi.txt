@@ -1,0 +1,22 @@
+html
+js
+http server
+localhost
+alert hello world
+ponto e virgula
+add canvas
+dom
+getElementBYtAGName
+funcoes
+variaveis
+array
+matrizes de coisas
+contextos canvas
+console.log
+hexadecimais
+pontos
+secoes explicacao 10 print
+iterações
+declarando funcoes
+ifs
+variacoes
