@@ -1,17 +1,20 @@
 var canvas = document.getElementsByTagName('canvas')[0];
 var context = canvas.getContext('2d');
+context.imageSmoothingEnabled = true;
 
 var WIDTH = canvas.width;
 var HEIGHT = canvas.height;
-var size = 5;
+var size = 30;
 
 var x_sections = WIDTH / size;
 var y_sections = HEIGHT / size;
 
 function createLine(x, y, n) {
 	context.beginPath();
-	context.lineWidth = 3;
-	if (n >= Math.random()) {
+	context.lineWidth = 15;
+	// context.lineWidth += .015;
+	context.lineCap = 'round';
+	if (n >= Math.random() / 2) {
 		context.moveTo(x, y);
 		context.lineTo(x + size, y + size);
 	}
