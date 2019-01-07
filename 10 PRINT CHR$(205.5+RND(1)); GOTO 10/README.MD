@@ -1,2 +1,23 @@
 # 1 - 10 PRINT CHR$(205.5+RND(1)); GOTO 10
-## Canvas Basics
+## Canvas and JS/Programming Basics
+- what is html
+- what is js
+- start your http server
+- what is localhost
+- basics: alert hello world
+- add canvas
+- what is dom
+- getElementBy
+- functions
+- variables
+- arrays
+- arrays of things
+- canvas contexts
+  - examples
+- console.log
+- hexadecimal
+- points
+- first art
+- iterations
+- conditionals
+- fun: 10 print variations
