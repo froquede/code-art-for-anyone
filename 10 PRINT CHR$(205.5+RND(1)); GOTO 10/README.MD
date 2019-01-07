@@ -1,1 +1,2 @@
-#10 PRINT CHR$(205.5+RND(1)); GOTO 10
+# 1 - 10 PRINT CHR$(205.5+RND(1)); GOTO 10
+## Canvas Basics
