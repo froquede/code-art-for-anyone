@@ -2,22 +2,24 @@
 ## Canvas and JS/Programming Basics
 - what is html
 - what is js
-- start your http server
-- what is localhost
-- basics: alert hello world
+  - basics: alert hello world
+- what is http
+  - start your http server
+  - what is localhost
 - add canvas
 - what is dom
+- variables
 - getElementBy
 - functions
-- variables
 - arrays
-- arrays of things
+  - arrays of things
 - canvas contexts
   - examples
-- console.log
-- hexadecimal
+- logging and debugging
+- what is hexadecimal
+  - colors
 - points
-- first art
+- first "art"
 - iterations
 - conditionals
 - fun: 10 print variations
