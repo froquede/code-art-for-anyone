@@ -1,25 +1,51 @@
 # 1 - 10 PRINT CHR$(205.5+RND(1)); GOTO 10
 ## Canvas and JS/Programming Basics
 - what is html
+
 - what is js
-  - basics: alert hello world
-- what is http
-  - start your http server
-  - what is localhost
+  - basics: open browser console and alert 'hello world'
+  
 - add canvas
-- what is dom
+  - what is canvas
+  - what is dom
+  
 - variables
+  - what are variables
+  - how to user variables
+  
 - getElementBy
+  - dom is back
+  
 - functions
+  - what are functions
+  - how to use functions
+  
 - arrays
+  - what are arrays
+  - why do we use arrays
   - arrays of things
+  
 - canvas contexts
   - examples
+  
 - logging and debugging
+  - it's console time
+  
 - what is hexadecimal
-  - colors
+  - hex and other colors
+  
 - points
+  - 2d points
+  
 - first "art"
+
 - iterations
+  - what are iterations
+  - how to use iterations
+  
 - conditionals
-- fun: 10 print variations
+  - what are conditionals
+  - how to use conditionals
+  
+- fun
+  - print variations
