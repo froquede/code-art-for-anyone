@@ -1,5 +1,6 @@
 # code-art-for-anyone
 
+## history and "theory"
 
 ## coding time
 - [Chapter 1 - 10 PRINT CHR$(205.5+RND(1)); : GOTO 10](https://github.com/roquef/code-art-for-anyone/tree/master/10%20PRINT%20CHR%24(205.5%2BRND(1))%3B%20GOTO%2010)
