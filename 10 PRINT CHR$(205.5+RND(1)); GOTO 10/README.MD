@@ -3,25 +3,25 @@
 - what is html
 
 - what is js
-  - basics: open browser console and alert 'hello world'
+  - 'hello world'
   
 - add canvas
   - what is canvas
   - what is dom
   
 - variables
-  - what are variables
-  - how to user variables
+  - what is a variable
+  - how to use variables
   
 - getElementBy
   - dom is back
   
 - functions
-  - what are functions
+  - what is a function
   - how to use functions
   
 - arrays
-  - what are arrays
+  - what is an array
   - why do we use arrays
   - arrays of things
   
@@ -40,12 +40,15 @@
 - first "art"
 
 - iterations
-  - what are iterations
+  - what is an iteration
   - how to use iterations
   
 - conditionals
-  - what are conditionals
+  - what is a conditional
   - how to use conditionals
   
 - fun
   - print variations
+  
+- cool links
+  - [Scrimba Introduction to JavaScript](https://scrimba.com/g/gintrotojavascript)
