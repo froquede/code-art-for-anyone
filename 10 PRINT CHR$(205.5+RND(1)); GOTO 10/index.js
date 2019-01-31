@@ -1,6 +1,6 @@
-var canvas = document.getElementsByTagName('canvas')[0];
+var canvas = document.getElementById('canvas');
 var context = canvas.getContext('2d');
-context.imageSmoothingEnabled = true;
+// context.imageSmoothingEnabled = true;
 
 var WIDTH = canvas.width;
 var HEIGHT = canvas.height;
