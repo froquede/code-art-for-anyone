@@ -19,12 +19,7 @@
 - functions
   - what is a function
   - how to use functions
-  
-- arrays // too much, create points without storing it
-  - what is an array
-  - why do we use arrays
-  - arrays of things
-  
+
 - canvas contexts
   - examples
   
